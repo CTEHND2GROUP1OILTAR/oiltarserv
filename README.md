@@ -1,0 +1,2 @@
+# oiltarserv
+Oiltar Servicing Company Limited is a pumping services company. It services the oil industry and specializes in oil well cementing, pressure pumping, mud engineering, stimulation, sand control, wild well fire control, pipeline pigging, recomissioning and comissioning, nitrogen services, coiled tubing services, celaning and drilling fluid products, well control services, waste management, filteration and slickline services.
